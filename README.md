@@ -1,8 +1,7 @@
 # TPGNN
 
 ## Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks (****NeurIPS 2022****)
-
-![teaser](https://ibb.co/q9rj6LD)
+[![Teaser.png](https://s1.ax1x.com/2023/06/14/pCng98f.png)](https://imgse.com/i/pCng98f)
 
 Modeling multivariate time series (MTS) is critical in modern intelligent systems. The accurate forecast of MTS data is still challenging due to the complicated latent variable correlation. Recent works apply the Graph Neural Networks (GNNs) to the task, with the basic idea of representing the correlation as a static graph. 
 
